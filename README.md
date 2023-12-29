@@ -1,4 +1,4 @@
-# Python
+# Python 🐍
 
 You will start searching for a calculator or jump to a new tab to calculate the same. This 100 days of code series will help you learn python from starting to the end. We will start from 0 and by the time we end this course, I promise you will be a Job ready Python developer!
 
