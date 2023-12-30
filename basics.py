@@ -34,5 +34,16 @@ print("He said, \"Don't do that!\"") # He said, "Don't do that!"
 # \": Double quote character. Used to include a literal double quote in a double-quoted string.
 print('C:\\path\\to\\file') # C:\path\to\file
 
+import time
+timestamp = time.strftime('%H:%M:%S')
+print(timestamp)
+timestamp = time.strftime('%H')
+print(timestamp)
+timestamp = time.strftime('%M')
+print(timestamp)
+timestamp = time.strftime('%S')
+print(timestamp)
 
 
+com = complex(2, -1)
+print(com)

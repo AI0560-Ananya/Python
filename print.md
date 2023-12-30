@@ -137,3 +137,21 @@ print(" Complete!")
 Output: Loading...
         Loading... Complete! # after 1 second
 ```
+
+#### Timestamp
+```bash
+import time
+timestamp = time.strftime('%H:%M:%S')
+print(timestamp)
+timestamp = time.strftime('%H')
+print(timestamp)
+timestamp = time.strftime('%M')
+print(timestamp)
+timestamp = time.strftime('%S')
+print(timestamp)
+
+Output: 08:34:54
+        08
+        34
+        54
+```
